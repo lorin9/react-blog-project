@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/K0XTsS1/closeup-hand-using-pen-mouse-working-with-computer-wooden-table.jpg",
+        "title": "The Adventure Begins",
+        "author": "Alice Smith",
+        "author_img": "https://i.ibb.co/0ZdwfHj/boy1.png",
+        "posted_date": "October 24, 2008",
+        "reading_time": 45,
+        "hashtags": ["adventure", "fantasy", "journey"]
+      },
+      {
+        "id": 2,
+        "cover": "https://i.ibb.co/YL1kmxT/tourist-hipster-girl-white-shirt-working-laptop-while-sitting-wooden-bench-beautiful-autumn-forest.jpg",
+        "title": "Coding Chronicles",
+        "author": "Bob Johnson",
+        "author_img": "https://i.ibb.co/Bwx9dPg/boy2.jpg",
+        "posted_date": "March 27,2002",
+        "reading_time": 60 ,
+        "hashtags": ["coding", "programming", "tech"]
+      },
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co/cTHJj4x/hands-unrecognizable-woman-typing-laptop-cafe.jpg",
+        "title": "Cooking Delights",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co/dJ30Gw2/girl1.jpg",
+        "posted_date": "December 14,2016",
+        "reading_time": 40 ,
+        "hashtags": ["cooking", "recipes", "foodie"]
+      },
+      {
+        "id": 4,
+        "cover": "https://i.ibb.co/tb0XGkt/young-pretty-woman-photographer-working-from-home-laptop.jpg",
+        "title": "History Unveiled",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/0qtpyxP/girl2.jpg",
+        "posted_date": "April 9,2002",
+        "reading_time": 55,
+        "hashtags": ["history", "knowledge", "education"]
+      },
+      {
+        "id": 5,
+        "cover": "https://i.ibb.co/cTHJj4x/hands-unrecognizable-woman-typing-laptop-cafe.jpg",
+        "title": "Poetry in Motion",
+        "author": "Grace Taylor",
+        "author_img": "https://i.ibb.co/0qtpyxP/girl2.jpg",
+        "posted_date": "july 10,2023",
+        "reading_time": 30 ,
+        "hashtags": ["poetry", "art", "expression"]
+      } 
+      
+]
